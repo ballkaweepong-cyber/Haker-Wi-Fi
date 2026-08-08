@@ -18,4 +18,7 @@ Hacker
   pkg install python -y
 ### 2. install Haker-Wi-Fi ปลอม
 ```bash
-https://github.com/ballkaweepong-cyber/Haker-Wi-Fi.git
+git clone https://github.com/ballkaweepong-cyber/Haker-Wi-Fi.git
+### 3. เข้าโฟลเดอร์
+```bash
+cd Haker-Wi-Fi
