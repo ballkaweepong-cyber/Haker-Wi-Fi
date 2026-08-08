@@ -20,6 +20,5 @@ Hacker
 ```bash
 git clone https://github.com/ballkaweepong-cyber/Haker-Wi-Fi.git
 cd Haker-Wi-Fi
-
 chmod +x fakewifi.py
 python3 fakewifi.py
