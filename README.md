@@ -16,3 +16,7 @@ Hacker
 - **Termux (Android):**
   ```bash
   pkg install python -y
+https://github.com/ballkaweepong-cyber/Haker-Wi-Fi.git
+cd Haker-Wi-Fi
+chmod +x fakewifi.py
+python3 fakewifi.py
