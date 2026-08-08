@@ -1,0 +1,4 @@
+chmod +x fakewifi.py
+python fakewifi.py
+หรือ
+python3 fakewifi.py
