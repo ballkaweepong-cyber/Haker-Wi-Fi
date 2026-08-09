@@ -1,9 +1,9 @@
-# Haker-Wi-Fi
+# Hacker
 การจำลองการแฮก Wi-Fi ปลอม
 Hacker
 
 
-# 🔓 Haker-Wi-Fi
+# 🔓 Hacker-Wi-Fi
 
 การจำลองการแฮก Wi-Fi ปลอม (Fake Wi-Fi Hacking Simulator)  
 **ใช้เพื่อความบันเทิงและการศึกษาเท่านั้น!**
